@@ -1,4 +1,11 @@
-.layout {
+.h1{
+  font-size: 4rem !important;
+  font-weight: 700 !important;
+}
+
+
+
+/* .layout {
   min-height: 100vh;
   background: linear-gradient(135deg, #E4E9F7 0%, #f0f2ff 100%);
 }
@@ -250,8 +257,7 @@
   border-color: #695CFE;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
+ @media (max-width: 768px) {
   .container {
     flex-direction: column;
     height: auto;
@@ -275,4 +281,4 @@
   .form-section {
     padding: 20px;
   }
-}
+} */
